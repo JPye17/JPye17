@@ -5,20 +5,20 @@ My name is Jared Pavlik and I am a transportation professional with over a decad
 ## Here is a brief overview of what was learning through the 6 month bootcamp.
 Jupyternotebook was the most used source to work through the below.
 
-*Excel and VBA Scripting
-*Python
-*Pandas
-*Matplotlib
-*SQL and SQLAlchemy
-*Webscraping
-*NoSQL
-*MangoDB
-*ETL
-*JavaScript 
-*Leaflet and GeoJson
-*Tableau
-*Unspervised and Supervised Machine Learning
-*Neural Networks and Deep Learning
+* Excel and VBA Scripting
+* Python
+* Pandas
+* Matplotlib
+* SQL and SQLAlchemy
+* Webscraping
+* NoSQL
+* MangoDB
+* ETL
+* JavaScript 
+* Leaflet and GeoJson
+* Tableau
+* Unspervised and Supervised Machine Learning
+* Neural Networks and Deep Learning
 
 
 
